@@ -46,7 +46,7 @@ openpyxl==2.4.0
 pandas==0.19.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==4.3.0
+Pillow==8.1.1
 post==0.0.12
 prompt-toolkit==1.0.9
 protobuf==3.4.0
